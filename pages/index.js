@@ -9,7 +9,6 @@ export default function Home() {
       </Head>
 
     <main>
-      <div>Hello</div>
       <div>Hello - 1</div>
       <div>Hello - 2</div>
       <div>Hello - 3</div>
