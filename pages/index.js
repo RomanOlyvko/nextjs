@@ -18,6 +18,7 @@ export default function Home() {
       <div>develop-1-2</div>
       <div>develop-2</div>
       <div>develop-2-2</div>
+      <div>main-new</div>
     </main>
       
     </div>
